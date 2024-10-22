@@ -2,7 +2,7 @@
 
 
 
-Welcome to our collection of Object Oriented Programming and Computer Graphics projects developed during our college course! This repository contains a "Library Management System" and a "Tower Of Hanoi Game" created using C++. These projects were developed as part of our learning journey, and we hope you find them entertaining and educational. 🚀
+Welcome to our collection of "Object Oriented Programming and Computer Graphics" projects developed during our college course! This repository contains a "Library Management System" and a "Tower Of Hanoi Game" created using C++. These projects were developed as part of our learning journey, and we hope you find them entertaining and educational. 🚀
 
 
 ## 2. Library Management System:
