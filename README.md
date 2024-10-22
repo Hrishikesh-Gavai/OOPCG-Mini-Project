@@ -7,13 +7,13 @@ Welcome to our collection of Object Oriented Programming and Computer Graphics p
 
 ## 2. Library Management System:
 
-<a href="https://github.com/Hrishikesh-Gavai/OOPCG-Mini-Projects/blob/main/OOPCG-Mini-Project/TOH.cpp">
-    <img src="https://github.com/Hrishikesh-Gavai/Python-Mini-Projects/assets/168000487/1ed6810d-bafa-46aa-a499-acd7f24b6c6f" width="100" height="100">
+<a href="https://github.com/Hrishikesh-Gavai/OOPCG-Mini-Projects/blob/main/OOPCG-Mini-Project/LMS.cpp">
+    <img src="https://github.com/user-attachments/assets/e3109919-8a5d-4e96-8b63-f4557d4bae8d" width="100" height="100">
 </a>
 
 
 ## 2. Tower Of Hanoi Game:
 
 <a href="https://github.com/Hrishikesh-Gavai/OOPCG-Mini-Projects/blob/main/OOPCG-Mini-Project/TOH.cpp">
-    <img src="https://github.com/Hrishikesh-Gavai/Python-Mini-Projects/assets/168000487/1ed6810d-bafa-46aa-a499-acd7f24b6c6f" width="100" height="100">
+    <img src="https://github.com/user-attachments/assets/e598ad91-6a2d-42ae-93e6-9654bc7f80f1" width="100" height="100">
 </a>
