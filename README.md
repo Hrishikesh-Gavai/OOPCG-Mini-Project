@@ -23,11 +23,9 @@ Welcome to our collection of Object Oriented Programming and Computer Graphics p
 
 1. Install Virtual Studio Code and setup C/C++.
 
-```
-Setup "graphics.h" in Virtual Studio Code.
-```
+2. Setup "graphics.h" in Virtual Studio Code.
 
-2. Now just run the codes in the "Terminal" with these commands:
+3. Now just download the files and run the codes in the "Terminal" with these commands:
 
 ```
 g++ LMS.cpp -lbgi -lgdi32 -lcomdlg32 -luuid -loleaut32 -lole32
