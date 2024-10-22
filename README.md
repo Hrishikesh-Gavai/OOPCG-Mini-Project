@@ -8,7 +8,7 @@ Welcome to our collection of Object Oriented Programming and Computer Graphics p
 ## 1. Library Management System:
 
 <a href="https://github.com/Hrishikesh-Gavai/OOPCG-Mini-Projects/blob/main/OOPCG-Mini-Project/LMS.cpp">
-    <img src="https://github.com/Hrishikesh-Gavai/Python-Mini-Projects/assets/168000487/1ed6810d-bafa-46aa-a499-acd7f24b6c6f" width="100" height="100">
+    <img src="<a href="https://www.flaticon.com/free-icons/library" title="library icons">Library icons created by Dighital Design - Flaticon</a>" width="100" height="100">
 </a>
 
 
