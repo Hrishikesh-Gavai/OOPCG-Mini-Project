@@ -17,3 +17,35 @@ Welcome to our collection of Object Oriented Programming and Computer Graphics p
 <a href="https://github.com/Hrishikesh-Gavai/OOPCG-Mini-Projects/blob/main/OOPCG-Mini-Project/TOH.cpp">
     <img src="https://github.com/user-attachments/assets/e598ad91-6a2d-42ae-93e6-9654bc7f80f1" width="100" height="100">
 </a>
+
+
+## *🔥 How To Run 🎴*
+
+1. Install Virtual Studio Code and setup C/C++.
+
+```
+Setup "graphics.h" in Virtual Studio Code.
+```
+
+2. Now just run the codes in the "Terminal" with these commands:
+
+```
+g++ LMS.cpp -lbgi -lgdi32 -lcomdlg32 -luuid -loleaut32 -lole32
+```
+
+```
+.\a.exe
+```
+
+```
+g++ TOH.cpp -lbgi -lgdi32 -lcomdlg32 -luuid -loleaut32 -lole32
+```
+
+```
+.\a.exe
+```
+
+## *🔥 Credits 🎴*
+
+
+S. Y. BTech Computer Engineering, KKWIEER.
