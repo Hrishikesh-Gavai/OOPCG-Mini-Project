@@ -5,7 +5,7 @@
 Welcome to our collection of "Object Oriented Programming and Computer Graphics" projects developed during our college course! This repository contains a "Library Management System" and a "Tower Of Hanoi Game" created using C++. These projects were developed as part of our learning journey, and we hope you find them entertaining and educational. 🚀
 
 
-## 2. Library Management System:
+## 1. Library Management System:
 
 <a href="https://github.com/Hrishikesh-Gavai/OOPCG-Mini-Projects/blob/main/OOPCG-Mini-Project/LMS.cpp">
     <img src="https://github.com/user-attachments/assets/e3109919-8a5d-4e96-8b63-f4557d4bae8d" width="100" height="100">
@@ -23,7 +23,7 @@ Welcome to our collection of "Object Oriented Programming and Computer Graphics"
 
 1. Install Virtual Studio Code and setup C/C++.
 
-2. Setup "graphics.h" in Virtual Studio Code.
+2. Setup "graphics.h".
 
 3. Now just download the files and run the codes in the "Terminal" with these commands:
 
