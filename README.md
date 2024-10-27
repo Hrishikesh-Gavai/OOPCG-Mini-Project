@@ -14,7 +14,7 @@ Welcome to our collection of "Object Oriented Programming and Computer Graphics"
 </a>
 
 
-## *🔥 Project Report And More Information 🎴*
+## *🔥 Project Report And More Information: 🎴*
 
 <a href="https://github.com/Hrishikesh-Gavai/OOPCG-Mini-Projects/tree/main/Report">
     <img src="https://github.com/user-attachments/assets/bc4138f3-0711-47c6-9f36-f0932ccfafdb" width="100" height="100">
@@ -46,5 +46,4 @@ g++ TOH.cpp -lbgi -lgdi32 -lcomdlg32 -luuid -loleaut32 -lole32
 
 ## *🔥 Credits 🎴*
 
-S. Y. BTech Computer Engineering,
-KKWIEER.
+S. Y. BTech Computer Engineering, KKWIEER.
