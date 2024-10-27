@@ -51,7 +51,7 @@ S. Y. BTech Computer Engineering, KKWIEER.
 
 ## *🔥 Project Report 🎴*
 
-<a href="">
+<a href="https://github.com/Hrishikesh-Gavai/OOPCG-Mini-Projects/tree/main/Report">
     <img src="https://github.com/user-attachments/assets/bc4138f3-0711-47c6-9f36-f0932ccfafdb" width="100" height="100">
 </a>
 
